@@ -42,5 +42,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/cc-rtx6000-boot:v1
-            ghcr.io/${{ github.repository_owner }}/cc-rtx6000-boot:latest
+            ghcr.io/ogabek-mustafoev/cc-rtx6000-boot:v1
+            ghcr.io/ogabek-mustafoev/cc-rtx6000-boot:latest
