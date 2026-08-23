@@ -9,7 +9,7 @@ on:
     branches: [main]
     paths:
       - "Dockerfile"
-      - ".github/workflows/cc-boot-image.yml"
+      - ".github/workflows/build.yml"
 jobs:
   build:
     runs-on: ubuntu-latest
